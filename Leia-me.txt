@@ -1,0 +1,15 @@
+
+1 - Instalar BD MongoDB
+MongoDB
+https://www.mongodb.com/download-center/enterprise/releases/development
+
+2 - Rodar projeto backend
+...\Empresas\backend
+npm install
+npm start
+
+3 - Rodar Projeto FrontEnd
+...\Empresas\frontend
+npm install
+npm start
+
